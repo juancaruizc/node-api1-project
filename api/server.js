@@ -5,9 +5,9 @@ const User = require('./users/model');
 const server = express();
 server.use(express.json());
 
-// server.get();
-// server.get();
 // server.post();
+// server.get();
+// server.get();
 // server.put();
 // server.delete();
 
